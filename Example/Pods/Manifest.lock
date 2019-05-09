@@ -1,0 +1,16 @@
+PODS:
+  - FFAPIs (0.1.0)
+
+DEPENDENCIES:
+  - FFAPIs (from `../`)
+
+EXTERNAL SOURCES:
+  FFAPIs:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFAPIs: cc1c650123c6e59b59142c867c8015b35ee4df1e
+
+PODFILE CHECKSUM: a7b8cdef1aec29ddb0da0ce932af800e2889f08a
+
+COCOAPODS: 1.6.1
